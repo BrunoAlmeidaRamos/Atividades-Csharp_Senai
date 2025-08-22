@@ -1,0 +1,14 @@
+D:\BrunoRamos\desafio_02\desafio_02\bin\Debug\net8.0\desafio_02.exe
+D:\BrunoRamos\desafio_02\desafio_02\bin\Debug\net8.0\desafio_02.deps.json
+D:\BrunoRamos\desafio_02\desafio_02\bin\Debug\net8.0\desafio_02.runtimeconfig.json
+D:\BrunoRamos\desafio_02\desafio_02\bin\Debug\net8.0\desafio_02.dll
+D:\BrunoRamos\desafio_02\desafio_02\bin\Debug\net8.0\desafio_02.pdb
+D:\BrunoRamos\desafio_02\desafio_02\obj\Debug\net8.0\desafio_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\BrunoRamos\desafio_02\desafio_02\obj\Debug\net8.0\desafio_02.AssemblyInfoInputs.cache
+D:\BrunoRamos\desafio_02\desafio_02\obj\Debug\net8.0\desafio_02.AssemblyInfo.cs
+D:\BrunoRamos\desafio_02\desafio_02\obj\Debug\net8.0\desafio_02.csproj.CoreCompileInputs.cache
+D:\BrunoRamos\desafio_02\desafio_02\obj\Debug\net8.0\desafio_02.dll
+D:\BrunoRamos\desafio_02\desafio_02\obj\Debug\net8.0\refint\desafio_02.dll
+D:\BrunoRamos\desafio_02\desafio_02\obj\Debug\net8.0\desafio_02.pdb
+D:\BrunoRamos\desafio_02\desafio_02\obj\Debug\net8.0\desafio_02.genruntimeconfig.cache
+D:\BrunoRamos\desafio_02\desafio_02\obj\Debug\net8.0\ref\desafio_02.dll

@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\bin\Debug\net8.0\Senai01.exe
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\bin\Debug\net8.0\Senai01.deps.json
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\bin\Debug\net8.0\Senai01.runtimeconfig.json
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\bin\Debug\net8.0\Senai01.dll
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\bin\Debug\net8.0\Senai01.pdb
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\obj\Debug\net8.0\Senai01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\obj\Debug\net8.0\Senai01.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\obj\Debug\net8.0\Senai01.AssemblyInfo.cs
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\obj\Debug\net8.0\Senai01.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\obj\Debug\net8.0\Senai01.dll
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\obj\Debug\net8.0\refint\Senai01.dll
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\obj\Debug\net8.0\Senai01.pdb
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\obj\Debug\net8.0\Senai01.genruntimeconfig.cache
+C:\Users\fic\Desktop\BrunoRamos\Senai01\Senai01\obj\Debug\net8.0\ref\Senai01.dll
