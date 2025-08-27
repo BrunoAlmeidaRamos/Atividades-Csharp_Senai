@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\bin\Debug\net8.0\funcao.exe
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\bin\Debug\net8.0\funcao.deps.json
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\bin\Debug\net8.0\funcao.runtimeconfig.json
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\bin\Debug\net8.0\funcao.dll
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\bin\Debug\net8.0\funcao.pdb
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\obj\Debug\net8.0\funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\obj\Debug\net8.0\funcao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\obj\Debug\net8.0\funcao.AssemblyInfo.cs
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\obj\Debug\net8.0\funcao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\obj\Debug\net8.0\funcao.dll
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\obj\Debug\net8.0\refint\funcao.dll
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\obj\Debug\net8.0\funcao.pdb
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\obj\Debug\net8.0\funcao.genruntimeconfig.cache
+C:\Users\fic\Desktop\BrunoRamos\funcao\funcao\obj\Debug\net8.0\ref\funcao.dll
