@@ -1,0 +1,15 @@
+D:\BrunoRamos\Fuction\Fuction\bin\Debug\net8.0\Fuction.exe
+D:\BrunoRamos\Fuction\Fuction\bin\Debug\net8.0\Fuction.deps.json
+D:\BrunoRamos\Fuction\Fuction\bin\Debug\net8.0\Fuction.runtimeconfig.json
+D:\BrunoRamos\Fuction\Fuction\bin\Debug\net8.0\Fuction.dll
+D:\BrunoRamos\Fuction\Fuction\bin\Debug\net8.0\Fuction.pdb
+D:\BrunoRamos\Fuction\Fuction\obj\Debug\net8.0\Fuction.GeneratedMSBuildEditorConfig.editorconfig
+D:\BrunoRamos\Fuction\Fuction\obj\Debug\net8.0\Fuction.AssemblyInfoInputs.cache
+D:\BrunoRamos\Fuction\Fuction\obj\Debug\net8.0\Fuction.AssemblyInfo.cs
+D:\BrunoRamos\Fuction\Fuction\obj\Debug\net8.0\Fuction.csproj.CoreCompileInputs.cache
+D:\BrunoRamos\Fuction\Fuction\obj\Debug\net8.0\Fuction.sourcelink.json
+D:\BrunoRamos\Fuction\Fuction\obj\Debug\net8.0\Fuction.dll
+D:\BrunoRamos\Fuction\Fuction\obj\Debug\net8.0\refint\Fuction.dll
+D:\BrunoRamos\Fuction\Fuction\obj\Debug\net8.0\Fuction.pdb
+D:\BrunoRamos\Fuction\Fuction\obj\Debug\net8.0\Fuction.genruntimeconfig.cache
+D:\BrunoRamos\Fuction\Fuction\obj\Debug\net8.0\ref\Fuction.dll
