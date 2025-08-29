@@ -1,0 +1,15 @@
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\bin\Debug\net9.0\AssistentePessoal.exe
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\bin\Debug\net9.0\AssistentePessoal.deps.json
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\bin\Debug\net9.0\AssistentePessoal.runtimeconfig.json
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\bin\Debug\net9.0\AssistentePessoal.dll
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\bin\Debug\net9.0\AssistentePessoal.pdb
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\obj\Debug\net9.0\AssistentePessoal.GeneratedMSBuildEditorConfig.editorconfig
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\obj\Debug\net9.0\AssistentePessoal.AssemblyInfoInputs.cache
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\obj\Debug\net9.0\AssistentePessoal.AssemblyInfo.cs
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\obj\Debug\net9.0\AssistentePessoal.csproj.CoreCompileInputs.cache
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\obj\Debug\net9.0\AssistentePessoal.sourcelink.json
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\obj\Debug\net9.0\AssistentePessoal.dll
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\obj\Debug\net9.0\refint\AssistentePessoal.dll
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\obj\Debug\net9.0\AssistentePessoal.pdb
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\obj\Debug\net9.0\AssistentePessoal.genruntimeconfig.cache
+D:\BrunoRamos\AssistentePessoal\AssistentePessoal\obj\Debug\net9.0\ref\AssistentePessoal.dll
