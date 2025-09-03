@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\obj\Debug\net8.0\Atividade_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\obj\Debug\net8.0\Atividade_POO.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\obj\Debug\net8.0\Atividade_POO.AssemblyInfo.cs
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\obj\Debug\net8.0\Atividade_POO.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\bin\Debug\net8.0\Atividade_POO.exe
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\bin\Debug\net8.0\Atividade_POO.deps.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\bin\Debug\net8.0\Atividade_POO.runtimeconfig.json
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\bin\Debug\net8.0\Atividade_POO.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\bin\Debug\net8.0\Atividade_POO.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\obj\Debug\net8.0\Atividade_POO.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\obj\Debug\net8.0\refint\Atividade_POO.dll
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\obj\Debug\net8.0\Atividade_POO.pdb
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\obj\Debug\net8.0\Atividade_POO.genruntimeconfig.cache
+C:\Users\fic\Desktop\CURSO_CSHARP_SENAI\Atividade_POO\Atividade_POO\obj\Debug\net8.0\ref\Atividade_POO.dll
