@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{53C65539-03CA-44BA-9838-8BCAF6F1C149}|Projeto_Estoque\\Projeto_Estoque.csproj|d:\\brunoramos\\projeto_estoque\\projeto_estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53C65539-03CA-44BA-9838-8BCAF6F1C149}|Projeto_Estoque\\Projeto_Estoque.csproj|solutionrelative:projeto_estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C65539-03CA-44BA-9838-8BCAF6F1C149}|Projeto_Estoque\\Projeto_Estoque.csproj|d:\\brunoramos\\projeto_estoque\\projeto_estoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C65539-03CA-44BA-9838-8BCAF6F1C149}|Projeto_Estoque\\Projeto_Estoque.csproj|solutionrelative:projeto_estoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C65539-03CA-44BA-9838-8BCAF6F1C149}|Projeto_Estoque\\Projeto_Estoque.csproj|d:\\brunoramos\\projeto_estoque\\projeto_estoque\\produtoeletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C65539-03CA-44BA-9838-8BCAF6F1C149}|Projeto_Estoque\\Projeto_Estoque.csproj|solutionrelative:projeto_estoque\\produtoeletronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C65539-03CA-44BA-9838-8BCAF6F1C149}|Projeto_Estoque\\Projeto_Estoque.csproj|d:\\brunoramos\\projeto_estoque\\projeto_estoque\\produtovestuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C65539-03CA-44BA-9838-8BCAF6F1C149}|Projeto_Estoque\\Projeto_Estoque.csproj|solutionrelative:projeto_estoque\\produtovestuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -87,6 +99,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoVestuario.cs",
+              "DocumentMoniker": "D:\\BrunoRamos\\Projeto_Estoque\\Projeto_Estoque\\ProdutoVestuario.cs",
+              "RelativeDocumentMoniker": "Projeto_Estoque\\ProdutoVestuario.cs",
+              "ToolTip": "D:\\BrunoRamos\\Projeto_Estoque\\Projeto_Estoque\\ProdutoVestuario.cs",
+              "RelativeToolTip": "Projeto_Estoque\\ProdutoVestuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:57:44.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoEletronico.cs",
+              "DocumentMoniker": "D:\\BrunoRamos\\Projeto_Estoque\\Projeto_Estoque\\ProdutoEletronico.cs",
+              "RelativeDocumentMoniker": "Projeto_Estoque\\ProdutoEletronico.cs",
+              "ToolTip": "D:\\BrunoRamos\\Projeto_Estoque\\Projeto_Estoque\\ProdutoEletronico.cs",
+              "RelativeToolTip": "Projeto_Estoque\\ProdutoEletronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:43:26.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\BrunoRamos\\Projeto_Estoque\\Projeto_Estoque\\Produto.cs",
+              "RelativeDocumentMoniker": "Projeto_Estoque\\Produto.cs",
+              "ToolTip": "D:\\BrunoRamos\\Projeto_Estoque\\Projeto_Estoque\\Produto.cs*",
+              "RelativeToolTip": "Projeto_Estoque\\Produto.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:29:02.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

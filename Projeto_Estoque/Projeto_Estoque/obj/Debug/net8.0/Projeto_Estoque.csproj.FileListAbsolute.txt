@@ -1,0 +1,5 @@
+D:\BrunoRamos\Projeto_Estoque\Projeto_Estoque\obj\Debug\net8.0\Projeto_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+D:\BrunoRamos\Projeto_Estoque\Projeto_Estoque\obj\Debug\net8.0\Projeto_Estoque.AssemblyInfoInputs.cache
+D:\BrunoRamos\Projeto_Estoque\Projeto_Estoque\obj\Debug\net8.0\Projeto_Estoque.AssemblyInfo.cs
+D:\BrunoRamos\Projeto_Estoque\Projeto_Estoque\obj\Debug\net8.0\Projeto_Estoque.csproj.CoreCompileInputs.cache
+D:\BrunoRamos\Projeto_Estoque\Projeto_Estoque\obj\Debug\net8.0\Projeto_Estoque.sourcelink.json
