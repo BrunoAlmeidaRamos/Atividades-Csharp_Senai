@@ -1,9 +1,6 @@
-﻿// 1. Cadastrar dois tipos de produto
+﻿using Projeto_Estoque;
 
-// 3. Remover produtos
+ProdutoEletronico Playstation3 = new ProdutoEletronico("Sony", 35, false, "Playstation3", 2, 000, "ll54v=v09fmf");
 
-// 4. Atualizar estoque de um produto 
+ProdutoVestuario zara = new ProdutoVestuario("Branca", "M", "Polo listrada", 399, 99, "8n/*hhnrnfg");
 
-// 5. Pesquisa por nome ou Sku
-
-// 6. O sistema deve exibir todas as informacoes do produto
