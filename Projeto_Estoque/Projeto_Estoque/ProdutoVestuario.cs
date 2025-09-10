@@ -2,18 +2,22 @@
 namespace Projeto_Estoque;
 public class ProdutoVestuario : Produto
 {
-    public string Cor {  get; set; }
-    public string Tamanho { get; set; }
-   
-
-    public ProdutoVestuario(string cor, string tamanho, string nome, double preco, int quantidade, string sku) : base(nome, preco, quantidade, sku)
+    public string modelo { get; set; }
+    public string cor { get; set; }
+    public string tamanho { get; set; }
+    public ProdutoVestuario(string Nome, double Preco, int Quantidade, string sku, string Modelo, string Cor, string Tamanho) : base(Nome, Preco, Quantidade, sku)
     {
-        Cor = cor;
-        Tamanho = tamanho;
+        modelo = Modelo;
+        cor = Cor;
+        tamanho = Tamanho;
     }
 
-    public override void ExibirInformacoes()
+    public override void ExibirDetalhes()
     {
-        Console.WriteLine($"Nome: {nome} | Preco: {preco} | Quantidade: {quantidade} | Sku: {sku}");
+        base.ExibirDetalhes();
+        Console.WriteLine($@"| Modelo: {modelo}
+| Cor: {cor}
+| Tamanho: {tamanho}
+|---------------------------------------");
     }
 }

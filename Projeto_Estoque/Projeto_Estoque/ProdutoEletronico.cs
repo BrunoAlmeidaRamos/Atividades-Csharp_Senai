@@ -3,13 +3,19 @@ namespace Projeto_Estoque;
 
 public class ProdutoEletronico : Produto
 {
-    public string Marca { get; set; }
-    public double Peso { get; set; }
-    public bool Bateria { get; set; }
-    public ProdutoEletronico(string marca, double peso,bool bateria,string nome, double preco, int quantidade, string sku) : base(nome, preco, quantidade, sku)
+    public string voltagem { get; set; }
+    public bool bateria { get; set; }
+    public ProdutoEletronico(string Nome, double Preco, int Quantidade, string sku, string Voltagem, bool Bateria) : base(Nome, Preco, Quantidade, sku)
     {
-        Marca = marca;
-        Peso = peso;
-        Bateria = bateria;
+        voltagem = Voltagem;
+        bateria = Bateria;
+    }
+
+    public override void ExibirDetalhes()
+    {
+        base.ExibirDetalhes();
+        Console.WriteLine($@"| Voltagem: {voltagem}
+| Bateria: {(bateria ? "Sim" : "Não")}
+|---------------------------------------");
     }
 }

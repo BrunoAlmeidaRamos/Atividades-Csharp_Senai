@@ -1,19 +1,49 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
+﻿
 namespace Projeto_Estoque;
-
-public class Produto
+//Essa classe não pode se transformar num objeto
+    public abstract class Produto
 {
-    public string nome { get; set; }
-    public double preco { get; set; }
-    public int quantidade { get; set; }
-    public string sku { get; set; }
+    //nome, preço, quantidade, SKU
+    public string nome { get; private set; }
+    public double preco { get; private set; }
+    public int quantidade { get; private set; }
+    public string sku { get; private set; }
 
-    public Produto(string nome, double preco, int quantidade, string sku)
+    //método construtor
+    public Produto(string NomeRecebido, double Preco, int Quantidade, string sku)
     {
-        this.nome = nome;
-        this.preco = preco;
-        this.quantidade = quantidade;
+        nome = NomeRecebido;
+        preco = Preco;
+        quantidade = Quantidade;
         this.sku = sku;
     }
+
+    public virtual void ExibirDetalhes()
+    {
+        Console.WriteLine($@"
+|-------------------------
+| Nome: {nome}
+| Preço: {preco}
+| Quantidade: {quantidade}
+| Sku: {sku}");
+    }
+
+    public void AtualizarQuantidade(int quantidadeAtualizada)
+    {
+        if (quantidadeAtualizada >= 0)
+        {
+            quantidade = quantidadeAtualizada;
+            Console.WriteLine("\nQuantidade atualizada com sucesso!");
+        }
+        else
+        {
+            Console.WriteLine("\nFalha ao atualizar a quantidade em estoque, a quantidade do produto não pode ser menor que zero!");
+        }
+    }
+
+    //public string GetNome() { return nome; }
+
+    //string Nome = GetNome();
+
+}
 }
