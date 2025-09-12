@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\BrunoRamos\\Projeto Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BC26EC6-FEDE-4702-93CA-51EE60567A69}|Projeto Biblioteca\\Projeto Biblioteca.csproj|d:\\brunoramos\\projeto biblioteca\\projeto biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BC26EC6-FEDE-4702-93CA-51EE60567A69}|Projeto Biblioteca\\Projeto Biblioteca.csproj|solutionrelative:projeto biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BC26EC6-FEDE-4702-93CA-51EE60567A69}|Projeto Biblioteca\\Projeto Biblioteca.csproj|d:\\brunoramos\\projeto biblioteca\\projeto biblioteca\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BC26EC6-FEDE-4702-93CA-51EE60567A69}|Projeto Biblioteca\\Projeto Biblioteca.csproj|solutionrelative:projeto biblioteca\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC26EC6-FEDE-4702-93CA-51EE60567A69}|Projeto Biblioteca\\Projeto Biblioteca.csproj|d:\\brunoramos\\projeto biblioteca\\projeto biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC26EC6-FEDE-4702-93CA-51EE60567A69}|Projeto Biblioteca\\Projeto Biblioteca.csproj|solutionrelative:projeto biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BC26EC6-FEDE-4702-93CA-51EE60567A69}|Projeto Biblioteca\\Projeto Biblioteca.csproj|d:\\brunoramos\\projeto biblioteca\\projeto biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,26 +98,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Biblioteca.cs",
               "DocumentMoniker": "D:\\BrunoRamos\\Projeto Biblioteca\\Projeto Biblioteca\\Biblioteca.cs",
               "RelativeDocumentMoniker": "Projeto Biblioteca\\Biblioteca.cs",
               "ToolTip": "D:\\BrunoRamos\\Projeto Biblioteca\\Projeto Biblioteca\\Biblioteca.cs",
               "RelativeToolTip": "Projeto Biblioteca\\Biblioteca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T14:32:17.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "livros.cs",
               "DocumentMoniker": "D:\\BrunoRamos\\Projeto Biblioteca\\Projeto Biblioteca\\livros.cs",
               "RelativeDocumentMoniker": "Projeto Biblioteca\\livros.cs",
               "ToolTip": "D:\\BrunoRamos\\Projeto Biblioteca\\Projeto Biblioteca\\livros.cs",
               "RelativeToolTip": "Projeto Biblioteca\\livros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T14:23:51.769Z",
               "EditorCaption": ""
@@ -130,7 +130,7 @@
               "RelativeDocumentMoniker": "Projeto Biblioteca\\Program.cs",
               "ToolTip": "D:\\BrunoRamos\\Projeto Biblioteca\\Projeto Biblioteca\\Program.cs",
               "RelativeToolTip": "Projeto Biblioteca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T14:11:16.514Z",
               "EditorCaption": ""
