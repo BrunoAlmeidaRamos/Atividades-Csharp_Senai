@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\BrunoRamos\\ProjetoRPG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B19F133-26C4-4F18-9356-D9F16B466C65}|ProjetoRPG\\ProjetoRPG.csproj|d:\\brunoramos\\projetorpg\\projetorpg\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B19F133-26C4-4F18-9356-D9F16B466C65}|ProjetoRPG\\ProjetoRPG.csproj|solutionrelative:projetorpg\\entidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B19F133-26C4-4F18-9356-D9F16B466C65}|ProjetoRPG\\ProjetoRPG.csproj|d:\\brunoramos\\projetorpg\\projetorpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B19F133-26C4-4F18-9356-D9F16B466C65}|ProjetoRPG\\ProjetoRPG.csproj|solutionrelative:projetorpg\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B19F133-26C4-4F18-9356-D9F16B466C65}|ProjetoRPG\\ProjetoRPG.csproj|d:\\brunoramos\\projetorpg\\projetorpg\\monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B19F133-26C4-4F18-9356-D9F16B466C65}|ProjetoRPG\\ProjetoRPG.csproj|solutionrelative:projetorpg\\monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B19F133-26C4-4F18-9356-D9F16B466C65}|ProjetoRPG\\ProjetoRPG.csproj|d:\\brunoramos\\projetorpg\\projetorpg\\batalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B19F133-26C4-4F18-9356-D9F16B466C65}|ProjetoRPG\\ProjetoRPG.csproj|solutionrelative:projetorpg\\batalha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B19F133-26C4-4F18-9356-D9F16B466C65}|ProjetoRPG\\ProjetoRPG.csproj|d:\\brunoramos\\projetorpg\\projetorpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B19F133-26C4-4F18-9356-D9F16B466C65}|ProjetoRPG\\ProjetoRPG.csproj|solutionrelative:projetorpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,13 +106,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Batalha.cs",
+              "DocumentMoniker": "D:\\BrunoRamos\\ProjetoRPG\\ProjetoRPG\\Batalha.cs",
+              "RelativeDocumentMoniker": "ProjetoRPG\\Batalha.cs",
+              "ToolTip": "D:\\BrunoRamos\\ProjetoRPG\\ProjetoRPG\\Batalha.cs",
+              "RelativeToolTip": "ProjetoRPG\\Batalha.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:11:13.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monstro.cs",
+              "DocumentMoniker": "D:\\BrunoRamos\\ProjetoRPG\\ProjetoRPG\\Monstro.cs",
+              "RelativeDocumentMoniker": "ProjetoRPG\\Monstro.cs",
+              "ToolTip": "D:\\BrunoRamos\\ProjetoRPG\\ProjetoRPG\\Monstro.cs",
+              "RelativeToolTip": "ProjetoRPG\\Monstro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:09:02.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "D:\\BrunoRamos\\ProjetoRPG\\ProjetoRPG\\Personagem.cs",
+              "RelativeDocumentMoniker": "ProjetoRPG\\Personagem.cs",
+              "ToolTip": "D:\\BrunoRamos\\ProjetoRPG\\ProjetoRPG\\Personagem.cs",
+              "RelativeToolTip": "ProjetoRPG\\Personagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:00:59.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "entidade.cs",
+              "DocumentMoniker": "D:\\BrunoRamos\\ProjetoRPG\\ProjetoRPG\\entidade.cs",
+              "RelativeDocumentMoniker": "ProjetoRPG\\entidade.cs",
+              "ToolTip": "D:\\BrunoRamos\\ProjetoRPG\\ProjetoRPG\\entidade.cs",
+              "RelativeToolTip": "ProjetoRPG\\entidade.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:48:04.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BrunoRamos\\ProjetoRPG\\ProjetoRPG\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoRPG\\Program.cs",
               "ToolTip": "D:\\BrunoRamos\\ProjetoRPG\\ProjetoRPG\\Program.cs",
               "RelativeToolTip": "ProjetoRPG\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T14:24:11.812Z",
               "EditorCaption": ""
