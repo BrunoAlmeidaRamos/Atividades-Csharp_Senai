@@ -1,0 +1,5 @@
+D:\BrunoRamos\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\BrunoRamos\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.AssemblyInfoInputs.cache
+D:\BrunoRamos\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.AssemblyInfo.cs
+D:\BrunoRamos\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.csproj.CoreCompileInputs.cache
+D:\BrunoRamos\ProjetoRPG\ProjetoRPG\obj\Debug\net8.0\ProjetoRPG.sourcelink.json

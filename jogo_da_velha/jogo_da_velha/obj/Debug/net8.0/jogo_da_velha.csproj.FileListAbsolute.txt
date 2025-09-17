@@ -1,0 +1,15 @@
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\bin\Debug\net8.0\jogo_da_velha.exe
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\bin\Debug\net8.0\jogo_da_velha.deps.json
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\bin\Debug\net8.0\jogo_da_velha.runtimeconfig.json
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\bin\Debug\net8.0\jogo_da_velha.dll
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\bin\Debug\net8.0\jogo_da_velha.pdb
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\obj\Debug\net8.0\jogo_da_velha.GeneratedMSBuildEditorConfig.editorconfig
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\obj\Debug\net8.0\jogo_da_velha.AssemblyInfoInputs.cache
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\obj\Debug\net8.0\jogo_da_velha.AssemblyInfo.cs
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\obj\Debug\net8.0\jogo_da_velha.csproj.CoreCompileInputs.cache
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\obj\Debug\net8.0\jogo_da_velha.sourcelink.json
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\obj\Debug\net8.0\jogo_da_velha.dll
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\obj\Debug\net8.0\refint\jogo_da_velha.dll
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\obj\Debug\net8.0\jogo_da_velha.pdb
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\obj\Debug\net8.0\jogo_da_velha.genruntimeconfig.cache
+D:\BrunoRamos\jogo_da_velha\jogo_da_velha\obj\Debug\net8.0\ref\jogo_da_velha.dll
