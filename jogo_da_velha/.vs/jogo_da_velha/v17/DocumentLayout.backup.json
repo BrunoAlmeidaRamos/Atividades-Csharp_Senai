@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\BrunoRamos\\jogo_da_velha\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3ED2A9A8-6A1B-45A1-B56C-D3C159A2A2A5}|jogo_da_velha\\jogo_da_velha.csproj|d:\\brunoramos\\jogo_da_velha\\jogo_da_velha\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED2A9A8-6A1B-45A1-B56C-D3C159A2A2A5}|jogo_da_velha\\jogo_da_velha.csproj|solutionrelative:jogo_da_velha\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3ED2A9A8-6A1B-45A1-B56C-D3C159A2A2A5}|jogo_da_velha\\jogo_da_velha.csproj|d:\\brunoramos\\jogo_da_velha\\jogo_da_velha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED2A9A8-6A1B-45A1-B56C-D3C159A2A2A5}|jogo_da_velha\\jogo_da_velha.csproj|solutionrelative:jogo_da_velha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ED2A9A8-6A1B-45A1-B56C-D3C159A2A2A5}|jogo_da_velha\\jogo_da_velha.csproj|d:\\brunoramos\\jogo_da_velha\\jogo_da_velha\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED2A9A8-6A1B-45A1-B56C-D3C159A2A2A5}|jogo_da_velha\\jogo_da_velha.csproj|solutionrelative:jogo_da_velha\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ED2A9A8-6A1B-45A1-B56C-D3C159A2A2A5}|jogo_da_velha\\jogo_da_velha.csproj|d:\\brunoramos\\jogo_da_velha\\jogo_da_velha\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED2A9A8-6A1B-45A1-B56C-D3C159A2A2A5}|jogo_da_velha\\jogo_da_velha.csproj|solutionrelative:jogo_da_velha\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,39 +98,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Jogador.cs",
               "DocumentMoniker": "D:\\BrunoRamos\\jogo_da_velha\\jogo_da_velha\\Jogador.cs",
               "RelativeDocumentMoniker": "jogo_da_velha\\Jogador.cs",
               "ToolTip": "D:\\BrunoRamos\\jogo_da_velha\\jogo_da_velha\\Jogador.cs",
               "RelativeToolTip": "jogo_da_velha\\Jogador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T12:19:15.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Tabuleiro.cs",
               "DocumentMoniker": "D:\\BrunoRamos\\jogo_da_velha\\jogo_da_velha\\Tabuleiro.cs",
               "RelativeDocumentMoniker": "jogo_da_velha\\Tabuleiro.cs",
               "ToolTip": "D:\\BrunoRamos\\jogo_da_velha\\jogo_da_velha\\Tabuleiro.cs",
               "RelativeToolTip": "jogo_da_velha\\Tabuleiro.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T11:17:48.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BrunoRamos\\jogo_da_velha\\jogo_da_velha\\Program.cs",
               "RelativeDocumentMoniker": "jogo_da_velha\\Program.cs",
               "ToolTip": "D:\\BrunoRamos\\jogo_da_velha\\jogo_da_velha\\Program.cs",
               "RelativeToolTip": "jogo_da_velha\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T11:15:28.311Z",
               "EditorCaption": ""

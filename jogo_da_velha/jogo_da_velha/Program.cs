@@ -1,18 +1,27 @@
 ﻿using jogo_da_velha;
 
-bool jogarNovamente;
+bool jogarNovamente = false;
 
 do
 {
     Tabuleiro tabuleiro = new Tabuleiro();
-    Jogador jogador1 = new Jogador("Jogador 1", 'X');
-    Jogador jogador2 = new Jogador("Jogador 2", 'O');
+
+    Console.WriteLine("Digite o nome do jogador 1: ");
+    string nomeJogador1 = Console.ReadLine();
+    Jogador jogador1 = new Jogador(nomeJogador1, 'X');
+
+
+    Console.WriteLine("Digite o nome do jogador 2: ");
+    string nomeJogador2 = Console.ReadLine();
+
+    Jogador jogador2 = new Jogador(nomeJogador2, 'O');
     Jogador jogadorAtual = jogador1;
 
     bool fimDeJogo = false;
 
     while (!fimDeJogo)
     {
+        
         tabuleiro.Desenho();
 
         Console.WriteLine($"\n{jogadorAtual.Nome}, é a sua vez. Escolha uma posição (1-9): ");

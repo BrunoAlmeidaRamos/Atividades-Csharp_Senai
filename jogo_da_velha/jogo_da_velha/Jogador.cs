@@ -1,6 +1,8 @@
-﻿namespace jogo_da_velha;
+﻿using System.Threading.Channels;
 
-internal class Jogador
+namespace jogo_da_velha;
+
+public class Jogador
 {
     public string Nome { get; set; }
     public char Simbolo { get; private set; }
@@ -10,4 +12,6 @@ internal class Jogador
         Nome = nome;
         Simbolo = simbolo;
     }   
+
+   
 }
